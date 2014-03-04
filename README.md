@@ -1,3 +1,2 @@
 GroupG
 ======
-hi yall
