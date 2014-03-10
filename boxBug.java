@@ -9,6 +9,9 @@ import info.gridworld.grid.Location;
  * A <code>BoxBug</code> traces out a square "box" of a given size. <br />
  * The implementation of this class is testable on the AP CS A and AB exams.
  */
+ 
+ //If this is your Jumper class, please name it correctly!
+ 
 public class boxBug extends Bug
 {
     private int steps;
